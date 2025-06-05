@@ -1,4 +1,4 @@
 # 2ndreporsitry
-python
-hello
-daad
+- python
+- hello
+- daad
